@@ -1,0 +1,16 @@
+a=10
+_a=20
+Num=20
+num=20
+TotalCount=35
+soft_info=40
+print(a)
+print(_a)
+print(Num)
+print(num)
+print(TotalCount)
+print(soft_info)
+b=a
+print(b)
+a=70
+print(a)

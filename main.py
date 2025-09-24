@@ -1,0 +1,22 @@
+print("hello world!!")
+print(666)
+print(13.14)
+print("黑马程序员")
+#定义一个变量，用来记录钱包余额
+money=50
+print("钱包还有：",money)
+#买了一个冰淇淋，花费10元
+money=money-10
+print("买了一个冰淇淋花费10元，还剩余：",money,"元")
+print(type("黑马程序员"))
+print(type(666))
+print(type(23.14))
+#将数字转化为字符串
+num_str=str(11)
+print(type(num_str),num_str)
+num=int("11")
+print(type(num),num)
+num2=float("11")
+print(type(num2),num2)
+int_num=int(13.345)
+print(type(int_num),int_num)
